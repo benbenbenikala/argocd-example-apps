@@ -1,3 +1,5 @@
 {
-  "releases.name": "release1"
+  "releases.name": [
+    "release1"
+  ]
 }
