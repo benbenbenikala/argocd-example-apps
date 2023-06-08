@@ -1,4 +1,4 @@
 image:
-  repository: nginx
+  repository: nginx1
   pullPolicy: IfNotPresent
   tag: "1.15.0"
